@@ -58,6 +58,7 @@ We have entered this solution into both “Highlight the diversity of South Aust
 [Figma]([https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1](https://www.figma.com/community/file/1274979287495852823/MyWaySA))
 
 ## Walkthrough Video
+[Walkthrough Video on Youtube](https://www.youtube.com/watch?v=AypiSARYnBU)
 
 
 ## Link to Hackerspace Profile
