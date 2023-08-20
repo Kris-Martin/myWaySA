@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 DataWay - Angus C, Hollie Brown, Jamie Halls, Pulkit Verma, 
+Copyright (c) 2023 DataWay - Angus Colovic, Hollie Brown, Jamie Halls, Pulkit Verma,
 Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
