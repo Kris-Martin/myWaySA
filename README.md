@@ -7,7 +7,7 @@ An interactive app, providing a one stop platform for tourism discovery and enga
 
 - [Authors](#authors)
 - [Description](#description)
-- [Screenshot](#screenshot)
+- [Figma](#figma)
 - [Walkthrough Video](#walkthrough-video)
 - [Sources and References](#sources-and-references)
 - [Licenses](#licenses)
