@@ -30,4 +30,5 @@ Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin. S
 ## Licenses
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
