@@ -3,12 +3,8 @@
 An interactive app, providing a one stop platform for tourism discovery and engagement in SA created for
 [GovHack 2023.](https://hackerspace.govhack.org/)
 ## Contents
-
-- [myWaySA](#mywaysa)
-  - [Contents](#contents)
-  - [Installation](#installation)
   - [Authors](#authors)
-    - [Description](#description)
+  - [Description](#description)
   - [Screenshot](#screenshot)
   - [Walkthrough Video](#walkthrough-video)
   - [Sources and References](#sources-and-references)
@@ -25,6 +21,8 @@ Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin.
 ## Screenshot
 
 ## Walkthrough Video
+
+## Link to Hackerspace Profile
 
 ## Sources and References
 
