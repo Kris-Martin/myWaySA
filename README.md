@@ -59,6 +59,7 @@ We have entered this solution into both “Highlight the diversity of South Aust
 
 ## Walkthrough Video
 
+
 ## Link to Hackerspace Profile
 https://hackerspace.govhack.org/team_management/teams/2124
 
