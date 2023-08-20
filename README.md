@@ -2,19 +2,20 @@
 
 An interactive app, providing a one stop platform for tourism discovery and engagement in SA created for
 [GovHack 2023.](https://hackerspace.govhack.org/)
-## Contents
-  - [Authors](#authors)
-  - [Description](#description)
-  - [Screenshot](#screenshot)
-  - [Walkthrough Video](#walkthrough-video)
-  - [Sources and References](#sources-and-references)
-  - [Licenses](#licenses)
 
+## Contents
+
+- [Authors](#authors)
+- [Description](#description)
+- [Screenshot](#screenshot)
+- [Walkthrough Video](#walkthrough-video)
+- [Sources and References](#sources-and-references)
+- [Licenses](#licenses)
 
 ## Authors
 
-Solution created by Dataway - Angus Colovic, Hollie Brown, Jamie Halls, Pulkit Verma,
-Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin.
+Copyright (c) 2023 DataWay - Angus Colovic, Hollie Brown, Jamie Halls, Pulkit Verma,
+Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin. Software released under the MIT License, non-software content under Creative Commons Attribution 4.0 International Public License.
 
 ## Description
 
