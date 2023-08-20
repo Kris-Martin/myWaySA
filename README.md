@@ -20,7 +20,7 @@ Rupindeer Kaur, Tilly Symonds, Utkarsh Saxena, Amy Gaetjens and Kristy Martin. S
 ## Description
 
 ## Figma
-[Figma] (https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1)
+[Figma] ([https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1](https://www.figma.com/community/file/1274979287495852823/MyWaySA))
 
 ## Walkthrough Video
 
