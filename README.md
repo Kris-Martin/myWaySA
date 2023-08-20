@@ -27,6 +27,7 @@ An interactive app, providing a one stop platform for tourism discovery and enga
 ## Walkthrough Video
 
 ## Link to Hackerspace Profile
+https://hackerspace.govhack.org/team_management/teams/2124
 
 ## Sources and References
 
