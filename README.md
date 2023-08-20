@@ -55,14 +55,15 @@ So to make an interactive dashboard with some of the features that would be need
 We have entered this solution into both “Highlight the diversity of South Australia's tourism product through gamification” and “Increase visitor expenditure through Smart Tourism”. [Hackerspace]([https://hackerspace.govhack.org/](https://hackerspace.govhack.org/team_management/teams/2124))
 
 ## Figma
-[Figma] ([https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1](https://www.figma.com/community/file/1274979287495852823/MyWaySA))
+[Figma]([https://www.figma.com/file/iwP4CwWQU14SZ6cEM0cQsz/ESGenius-(Community)?type=design&node-id=0%3A1&mode=design&t=JUrbUJe3Y1pTHmHk-1](https://www.figma.com/community/file/1274979287495852823/MyWaySA))
 
 ## Walkthrough Video
 
 ## Link to Hackerspace Profile
 https://hackerspace.govhack.org/team_management/teams/2124
 
-## Sources and References
+## [Sources and References](https://hackerspace.govhack.org/team_management/teams/2124/team_data_sets)
+
 
 ## Licenses
 
